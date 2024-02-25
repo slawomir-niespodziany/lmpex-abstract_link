@@ -1,6 +1,6 @@
 #pragma once 
 
-#include<string>
+#include <string>
 #include "lmp/lmp.h"
 
 class AbstractLink : public lmp::AbstractModule<std::string> {
